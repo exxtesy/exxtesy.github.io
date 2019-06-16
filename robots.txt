@@ -1,0 +1,9 @@
+User-agent: *
+
+
+User-agent: Yandex
+
+
+Sitemap: 
+
+Host: https://runcmd.ru/
