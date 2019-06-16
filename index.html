@@ -1,0 +1,36 @@
+<html>
+<style>
+.box-circle{position:absolute;bottom:25%;right:0;z-index:20;-webkit-transform:translateX(-85px);transform:translateX(-85px)}
+.box-circle text{font-size:55px;font-family:"apercu",sans-serif,sans-serif;font-weight:300;letter-spacing:8px;fill:#fff;word-spacing:40px}
+@media screen and (max-width: 768px){.box-label,.box-circle{display:none}
+</style>
+<body bgcolor=#000>
+
+
+
+
+
+ <div class="box-circle">
+                    <svg viewBox="0 0 500 500" width="150" height="150">
+                        <defs>
+                            <path d="M50,250c0-110.5,89.5-200,200-200s200,89.5,200,200s-89.5,200-200,200S50,360.5,50,250" id="textcircle">
+                                <animateTransform
+                                        attributeName="transform"
+                                        begin="0s"
+                                        dur="30s"
+                                        type="rotate"
+                                        from="0 250 250"
+                                        to="360 250 250"
+                                        repeatCount="indefinite"
+                                />
+                            </path>
+                        </defs>
+                        <text dy="50" textLength="1220">
+                            <textPath xlink:href="#textcircle">In collaboration with Cesar Millan. </textPath>
+                        </text>
+                    </svg>
+                    <div class="arrows"></div>
+                </div>
+
+</body>
+</html>
