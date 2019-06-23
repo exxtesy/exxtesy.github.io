@@ -1,8 +1,12 @@
 User-agent: *
-
+Disallow: /assets
+Disallow: /css
+Disallow: /js
 
 User-agent: Yandex
-
+Disallow: /assets
+Disallow: /css
+Disallow: /js
 
 Sitemap: 
 
