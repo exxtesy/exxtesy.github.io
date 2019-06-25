@@ -8,6 +8,6 @@ Disallow: /assets
 Disallow: /css
 Disallow: /js
 
-Sitemap: 
+Sitemap: https://runcmd.ru/sitemap.xml
 
-Host: https://runcmd.ru/
+Host: https://runcmd.ru
