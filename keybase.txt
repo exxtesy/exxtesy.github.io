@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/advodoc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://runcmd.ru
+  * I am advodoc (https://keybase.io/advodoc) on keybase.
+  * I have a public key ASA3JH6HOoEgPcKgGyaCsDoV3q0H6gj037-c4VvtZKMISQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012037247e873a81203dc2a01b2682b03a15dead07ea08f4dfbf9ce15bed64a308490a",
+      "host": "keybase.io",
+      "kid": "012037247e873a81203dc2a01b2682b03a15dead07ea08f4dfbf9ce15bed64a308490a",
+      "uid": "06a4d3dd1ee97070ed7bd771998e4a19",
+      "username": "advodoc"
+    },
+    "merkle_root": {
+      "ctime": 1575963849,
+      "hash": "40d43bfcfc52f85a48a77bd5706f13bd222d3c27549e0937ff8bbc6f7746e11fb081e69aa9934e0fdf33c4564dea3ef0a407a777072acba69c697be9977028a7",
+      "hash_meta": "42182c9cc945ae9b0811f53bca351844b2969763d3679337cc483fc8848ddb73",
+      "seqno": 13202326
+    },
+    "service": {
+      "entropy": "SJ+86b3T9K4yy0QF6TH++uv7",
+      "hostname": "runcmd.ru",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575963865,
+  "expire_in": 504576000,
+  "prev": "187dc8f3ba9b89b451f9185bb1f5f672f138d109156773b4b3886363b08d4a1c",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNyR+hzqBID3CoBsmgrA6Fd6tB+oI9N+/nOFb7WSjCEkKp3BheWxvYWTESpcCBcQgGH3I87qbibRR+RhbsfX2cvE40QkVZ3O0s4hjY7CNShzEIE+2sq0+c/nMsOeaQaNRI/nGNarcPGhEWQtszlZtjS8yAgHCo3NpZ8RAUmjfO2jHm+cf+eJMV/xIIoZEAZK5IyTBhUn7eQIL1ZTcKU5wET1WrJzTLDK89q/Vt34t4nfMxVwAeojNotCTD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE3U4NzM64rlzZ2rfhiZRU8STaKVWY2ZbaogreX4D0Coo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/advodoc
+
+==================================================================
